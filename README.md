@@ -61,7 +61,7 @@ save_path = Path(r"C:\Users\guyue\Desktop\hsj\WHU\人工智能科研创新统计
 ## 结语
 本程序是我经过海量数据采集实践中用得比较习惯的最终版本，现分享给大家！<br>
 欢迎各位同门提出新的方案或与我沟通交流，共同优化改进WOS文献数据的自动化采集程序！！！
-<div align="center">胡思进</div>
+
 
 
 
